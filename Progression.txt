@@ -1,0 +1,6 @@
+Jenkins 2 Up and Running
+
+26.oct.2023
+  Chapter 1 - Introducing Jenkins 2
+
+pag 19 - Declarative Pipelines
