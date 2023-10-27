@@ -15,4 +15,4 @@ Jenkins 2 Up and Running
 
   Installing github Apps for using Jenkins plugin
 
-pag 52
+pag 58
