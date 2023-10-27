@@ -3,4 +3,16 @@ Jenkins 2 Up and Running
 26.oct.2023
   Chapter 1 - Introducing Jenkins 2
 
-pag 19 - Declarative Pipelines
+  pag 21 - Job Types in Jenkins 2
+
+    Pipeline ->  
+    Folder ->
+    Organization ->
+    Multibranch Pipeline -> 
+
+27.oct.2023
+  Chapter 2 - The Foundation
+
+  Installing github Apps for using Jenkins plugin
+
+pag 52
